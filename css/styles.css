@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #212529;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    max-width: 100%;
+    margin: 30px 15px 30px 15px;
+    padding: 15px;
+    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+
+#title{
+    max-width: 100%;
+    margin: 27px 0 0 0;
+    font-size: 50px;
+}
+
+.nombre_real{
+    font-size: 23px;
+}
+
+#img-div{
+    max-width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #CED4DA;
+
+}
+
+#image{
+    max-width: 100%;
+}
+
+#img-caption{
+    max-width: 100%;
+    margin: 15px 0 5px 0;
+    font-size: 18px;
+    display: block;
+}
+
+#tribute-info{
+
+}
+
+h2{
+    max-width: 100p%;
+    margin: 50px 0 50px 0;
+}
+
+ul{
+    max-width: 550px;
+    margin: auto;
+    align-items: center;
+}
