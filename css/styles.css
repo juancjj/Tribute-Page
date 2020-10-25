@@ -22,6 +22,7 @@ body{
 
 .nombre_real{
     font-size: 23px;
+    opacity: 0.4;
 }
 
 #img-div{
@@ -56,4 +57,12 @@ ul{
     max-width: 550px;
     margin: auto;
     align-items: center;
+}
+
+.cite_p{
+    opacity: 0.8;
+}
+
+cite{
+    opacity: 0.8;
 }
