@@ -3,11 +3,12 @@ body{
     padding: 0;
     background-color: #212529;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 
 #main{
     max-width: 100%;
-    margin: 30px 15px 30px 15px;
+    margin: 0.5rem 0.75rem 1.5rem 0.75rem;
     padding: 15px;
     background-color: aliceblue;
     text-align: center;
@@ -17,7 +18,7 @@ body{
 #title{
     max-width: 100%;
     margin: 27px 0 0 0;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .nombre_real{
@@ -42,6 +43,7 @@ body{
     margin: 15px 0 5px 0;
     font-size: 18px;
     display: block;
+    font-style: italic;
 }
 
 #tribute-info{
@@ -56,13 +58,17 @@ h2{
 ul{
     max-width: 550px;
     margin: auto;
+    line-height: 20px;
     align-items: center;
+    text-align: justify;
+    
 }
 
 .cite_p{
-    opacity: 0.8;
+    margin: 20px 0 16px 0;
+    opacity: 0.9;
 }
 
 cite{
-    opacity: 0.8;
+    opacity: 0.9;
 }
