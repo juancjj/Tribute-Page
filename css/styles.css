@@ -47,7 +47,7 @@ body{
 }
 
 #tribute-info{
-
+    justify-content: space-between;
 }
 
 h2{
@@ -58,7 +58,7 @@ h2{
 ul{
     max-width: 550px;
     margin: auto;
-    line-height: 20px;
+    line-height: 24px;
     align-items: center;
     text-align: justify;
     
